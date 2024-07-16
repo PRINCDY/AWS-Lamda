@@ -1,5 +1,5 @@
 # AWS-Lambda
-created a Lamda function in AWS Lamda console
+
 import json
 
 print('Loading your function')
