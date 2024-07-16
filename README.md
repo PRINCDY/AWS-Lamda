@@ -1,4 +1,4 @@
-# AWS-Lamda
+# AWS-Lambda
 created a Lamda function in AWS Lamda console
 import json
 
